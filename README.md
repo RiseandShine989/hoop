@@ -1,4 +1,4 @@
-This is a very basic task in Data Analysis.
+This is a very basic task in Data Analysis. Actually more of data visualization task.
 The data comprises of details about many years of Karnataka elections in India.Some insights have to be drawn from the data which are as follows.
 
 
